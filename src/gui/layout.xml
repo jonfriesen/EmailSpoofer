@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<containers>
+    <container name="panel"
+               columnSpecs="right:max(30dlu;pref),3dlu,80dlu,10dlu,right:max(30dlu;pref),3dlu,80dlu,1dlu:grow"
+               rowSpecs="pref,3dlu,pref,3dlu,pref,3dlu,pref,3dlu,pref,3dlu,pref,3dlu,pref,3dlu,pref,150dlu,pref,3dlu,pref,15dlu,pref:grow">
+        <cellconstraints name="addressingSep" gridX="1" gridY="1" gridWidth="8" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="panel" gridX="7" gridY="19" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="fromAddressLabel" gridX="5" gridY="5" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="targetLabel" gridX="1" gridY="3" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="fromNameLabel" gridX="5" gridY="3" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="contentSep" gridX="1" gridY="7" gridWidth="8" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="dateLabel" gridX="1" gridY="9" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="timeLabel" gridX="5" gridY="9" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="subjectLabel" gridX="1" gridY="11" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="contentLabel" gridX="1" gridY="13" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="contentPane" gridX="1" gridY="15" gridWidth="8" gridHeight="2" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="5" leftInset="18"/>
+        <cellconstraints name="targetField" gridX="3" gridY="3" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="fromNameField" gridX="7" gridY="3" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="fromField" gridX="7" gridY="5" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="dateCombo" gridX="3" gridY="9" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="timeField" gridX="7" gridY="9" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="subjectField" gridX="3" gridY="11" gridWidth="5" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+        <cellconstraints name="submitButton" gridX="7" gridY="19" gridWidth="1" gridHeight="1" horizontalAlignment="default" verticalAlignment="default" topInset="0" bottomInset="0" rightInset="0" leftInset="0"/>
+    </container>
+</containers>
